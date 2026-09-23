@@ -4,12 +4,11 @@ I build AI systems across the stack. My technical journey has progressed from CP
 
 ## Career & Technical Journey
 
-### 1. First Role — LLM Inference Acceleration & Computer Architecture
+### 1. First Role — LLM Inference Acceleration & High-Performance Computing
 
 - Worked on LLM inference acceleration and low-level performance optimization.
-- Wrote Arm assembly and used Arm C Language Extensions (ACLE).
-- Developed gem5-based address-lookup modules for memory subsystems.
-- Worked on CPU microarchitecture.
+- Developed high-performance GEMM kernels using Arm SME/SVE assembly and Arm C Language Extensions (ACLE).
+- Worked on CPU microarchitecture, using gem5 for modeling and analysis.
 
 ### 2. Second Role — LLM Algorithms, Training & Heterogeneous Acceleration
 
