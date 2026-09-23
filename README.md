@@ -9,7 +9,7 @@ I build AI systems across the stack—from multimodal training infrastructure an
 - **AI Acceleration:** heterogeneous computing, NPU architecture, and NPU operator development
 - **Kernel Engineering:** high-performance kernels and low-level optimization
 - **Arm Optimization:** Arm assembly and Arm C Language Extensions (ACLE)
-- **Compiler & Systems:** Triton compiler internals, runtime, and firmware
+- **Compiler & Systems:** Basic exposure to Triton compiler internals, runtime, and firmware
 - **Computer Architecture:** CPU microarchitecture and gem5-based modeling
 - **Memory Systems:** memory-subsystem development and address-lookup modules
 
