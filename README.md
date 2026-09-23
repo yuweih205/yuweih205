@@ -1,18 +1,27 @@
 # Hi, I'm Yuwei Huang 👋
 
-I build AI systems across the stack—from multimodal training infrastructure and large-model algorithms to inference acceleration, kernels, runtimes, and hardware architecture.
+I build AI systems across the stack. My technical journey has progressed from CPU architecture and low-level inference optimization, through LLM algorithms, training, and heterogeneous acceleration, to NPU systems and multimodal workloads. I am now focused on multimodal training infrastructure.
 
-## Technical Focus
+## Career & Technical Journey
 
-- **Multimodal AI:** training infrastructure, model training, and deployment
-- **Large Models:** LLM algorithms, training, inference, and performance optimization
-- **AI Acceleration:** heterogeneous computing, NPU architecture, and NPU operator development
-- **Kernel Engineering:** high-performance kernels and low-level optimization
-- **Arm Optimization:** Arm assembly and Arm C Language Extensions (ACLE)
-- **Compiler & Systems:** Basic exposure to Triton compiler internals, runtime, and firmware
-- **Computer Architecture:** CPU microarchitecture and gem5-based modeling
-- **Memory Systems:** memory-subsystem development and address-lookup modules
+### 1. First Role — LLM Inference Acceleration & Computer Architecture
 
-## Current Focus
+- Worked on LLM inference acceleration and low-level performance optimization.
+- Wrote Arm assembly and used Arm C Language Extensions (ACLE).
+- Developed gem5-based address-lookup modules for memory subsystems.
+- Worked on CPU microarchitecture.
 
-Building scalable, reliable, and efficient infrastructure for multimodal model training.
+### 2. Second Role — LLM Algorithms, Training & Heterogeneous Acceleration
+
+- Developed LLM algorithms and training workflows.
+- Worked on heterogeneous acceleration for large-model workloads.
+
+### 3. Third Role — NPU Systems & Multimodal Deployment
+
+- Worked on NPU architecture and NPU operator development.
+- Deployed and optimized multimodal models on NPU systems.
+- Gained basic exposure to Triton compiler internals, runtime, and firmware.
+
+### 4. Current Role — Multimodal Training Infrastructure
+
+- Building scalable, reliable, and efficient infrastructure for multimodal model training.
