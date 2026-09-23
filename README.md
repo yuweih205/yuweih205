@@ -17,7 +17,7 @@ I build AI systems across the stack. My technical journey has progressed from CP
 
 ### 3. Third Role — NPU Systems & Multimodal Deployment
 
-- Worked on NPU architecture and NPU operator development.
+- Worked on NPU architecture and developed training kernels, primarily grouped GEMM and sparse attention.
 - Deployed and optimized multimodal models on NPU systems.
 - Gained basic exposure to Triton compiler internals, runtime, and firmware.
 
