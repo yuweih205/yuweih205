@@ -8,7 +8,7 @@ I build AI systems across the stack. My technical journey has progressed from CP
 
 - Worked on LLM inference acceleration and low-level performance optimization.
 - Developed high-performance GEMM kernels using Arm SME/SVE assembly and Arm C Language Extensions (ACLE).
-- Modeled address translation for an accelerator interconnect using gem5.
+- Modeled address translation for a large accelerator interconnect using gem5.
 
 ### 2. Second Role — LLM Algorithms, Training & Heterogeneous Acceleration
 
