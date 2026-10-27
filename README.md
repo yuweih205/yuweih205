@@ -23,7 +23,5 @@ I build AI systems across the stack. My technical journey has progressed from CP
 
 ### 4. Current Role — Multimodal Training & RL Infrastructure
 
-- Building scalable, reliable, and efficient infrastructure for multimodal model training.
-- Developing multimodal RL infrastructure for diffusion and MoE models, connecting offline conditioning, online rollout, reward evaluation, and policy updates.
-- Building shared training components and model adapters for text-to-image/video/audio, joint audio-video, and reference-conditioned generation.
-- Developing numerical correctness checks and validating distributed rollout and training workflows on 8 and 64 GPUs.
+- Building scalable, reliable, and efficient infrastructure for multimodal model training at 1,000-GPU scale.
+- Developing multimodal RL infrastructure.
